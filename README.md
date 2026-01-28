@@ -6,6 +6,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have caught bats out of the air with my bare hands
 
+- ![derpaderpa](./images/yourimage.png)
+
 <!---
 Ampelion/Ampelion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
