@@ -5,7 +5,7 @@
 - 📫 How to reach me spingus@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have caught bats out of the air with my bare hands
-- ![tinkislikit](./images/TDF74.jpg)
+- ![tinkislikit](./images/TDF.jpg)
 
 - ![derpaderpa](./images/TDF74.jpg)
 
