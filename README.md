@@ -7,11 +7,8 @@
 - ⚡ Fun fact: I have caught bats out of the air with my bare hands
 - I like Cars, birds, bikes, andmost of all, SCIENCE!
 
-- ![josie elle](https://github.com/user-attachments/assets/9732fbbd-449e-439e-99a3-9e8c11f7898b)
+- <img src="https://github.com/user-attachments/assets/9732fbbd-449e-439e-99a3-9e8c11f7898b" alt="josie elle" width="400"/>
 
-
-
-- ![derpaderpa](./images/TDF74.jpg)
 
 <!---
 Ampelion/Ampelion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
