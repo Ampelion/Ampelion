@@ -1,4 +1,5 @@
 At ViaCyte I tended gardens of flesh...
+
 I learned how to grow smooth, blank cells into little insulin factories that pump out cell juice when there is sugar around.  Once we got that down, we needed to firm it up and make sure only the fully-baked stuff went into our clincial trial patients!  I did a bunch of studies in mice to figure out teratoma growth thresholds.  From there I translated the dosing to histological detection of undifferentiated cells...but that was pretty laborious.  Thousands of slides looking for only a few cells every million.  When you're looking for a needle in a haystack --get a magnet!!  That was my instroduction to ML and computer vision.
 
 I started off with a simple random forest decision trees trained on basic features in the histology.  With a lot of iteration and intentinally breaking the process with contrived input, i got a workable system that could detect 4 in a million cells that didn't beling in our patients.
