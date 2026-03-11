@@ -1,3 +1,8 @@
+I care about AI Safety.
+
+"Why does a biologist care about AI safety?"
+
+
 At ViaCyte I tended gardens of flesh...
 
 I learned how to grow smooth, blank cells into little insulin factories that pump out cell juice when there is sugar around.  Once we got that down, we needed to firm it up and make sure only the fully-baked stuff went into our clincial trial patients!  
