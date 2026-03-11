@@ -15,12 +15,13 @@ Over time I incorporated different styles of analysis and more sophisticated ML 
 Safety is the thing.  Be bold! Not reckless.  Our first-in-human stem cell therapy for Type 1 Diabetes was amazing.  It was also scary to put it into people for our first clinical trial.  
 
 Before we got to that point with our awesome new treatment, we spent the time and resources to make sure it would not cause harm.  Not harming patients with our new treatment is basic --the same as not letting AI be the final decider in a weapon launch --until we evaluate every aspect of how it could go wrong, demonstrate it,  and hold ourselves to a high standard of care that it will not go wrong.
-
-
-
-
-
-
+___
+  
+  
+  
+  
+    
+  
 ⚡ Fun fact: I have caught bats out of the air with my bare hands
 
 <img src="https://github.com/user-attachments/assets/9732fbbd-449e-439e-99a3-9e8c11f7898b" alt="josie elle" width="400"/>
