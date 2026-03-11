@@ -21,9 +21,9 @@ Before we got to that point with our awesome new treatment, we spent the time an
 
 
 
-- ⚡ Fun fact: I have caught bats out of the air with my bare hands
+⚡ Fun fact: I have caught bats out of the air with my bare hands
 
-- <img src="https://github.com/user-attachments/assets/9732fbbd-449e-439e-99a3-9e8c11f7898b" alt="josie elle" width="400"/>
+<img src="https://github.com/user-attachments/assets/9732fbbd-449e-439e-99a3-9e8c11f7898b" alt="josie elle" width="400"/>
 
 
 <!---
