@@ -15,15 +15,23 @@ When you're looking for a needle in a haystack --get a magnet!!  That was my int
 
 I started off with a simple random forest decision trees trained on basic features in the histology.  With a lot of iteration and intentionally breaking the process with contrived input, I got a workable system that could detect 4 in a million cells that didn't belong in our patients.
 
-Why 4 in a million?  Our regulatory guidance from the FDA has stringent guidance that we need to demonstrate, based on our the teratoma animal studies (remember this was cutting edge so not a lot of generic safety data lying around), to show that our product was safe in people.  We had to show the assay had an acceptable Lower Limit of Detection, that the in vitro controls behaved consistently both within the assay and amonge all runs, and I had to demonstrate that the algorithm made the correct calls when I tossed adversarial data at it.
+Why 4 in a million?  Our regulatory guidance from the FDA has stringent guidance that we need to demonstrate, based on our the teratoma animal studies (remember this was cutting edge so not a lot of generic safety data lying around), to show that our product was safe in people.  We had to show the assay had an acceptable Lower Limit of Detection, that the in vitro controls behaved consistently both within the assay and among all runs, and I had to demonstrate that the algorithm made the correct calls when I tossed adversarial data at it.
 
 We achieved the FDA's blessing and proceeded to use the assay and its descendents for a decade in evaluating all our clinical trial cell lots.
 
-Over time, I incorporated different styles of analysis and more sophisticated ML with CNNs.  With better tools and more brain, I can finesse more nuance out of a histological landscape.  Doing it at scale allows a cellular narrative to develop a rate that allows nimble pivots to better learning.  Teaching Densenet how to tell the difference between human cells in an implanted device...from the human cells that surround that device was a big moment.  Even better was when I taught it to to tease apart long skinny vascular tissue from long skinny fibrosis that grow together and stain the same way...that was cool..and useful!  It let us explore how to control the growth each one --pretty important when you don't want fibrosis clogging up your vascular supply chain.
+Over time, I incorporated different styles of analysis, and more sophisticated ML with CNNs.  With better tools and more brain, I can finesse more nuance out of a histological landscape.  Doing it at scale allows a cellular narrative to develop at a rate that allows nimble pivots to better learning.  Teaching Densenet how to tell the difference between human cells in an implanted device...from the human cells that surround that device was a big moment.  Even better was when I taught it to tease apart long skinny vascular tissue from long skinny fibrosis that grow together and stain the same way...that was cool..and useful!  It let us explore how to control the growth each one --pretty important when you don't want fibrosis clogging up your vascular supply chain.
 
 Our first-in-human stem cell therapy for Type 1 Diabetes was amazing.  It was also scary to put it into people for our first clinical trial.  
 
-Before we got to that point with our awesome new treatment, we spent the time and resources to make sure it would not cause harm.  Not harming patients with our new treatment is basic --the same as not letting AI be an autonomous decisionmaker --until we evaluate every aspect of how it could go wrong, demonstrate it,  and hold ourselves to a high standard of care that it will not go wrong. 
+Before we got to that point with our awesome new treatment, we spent the time and resources to make sure it would not cause harm.  Not harming patients with our new treatment is basic --the same as not letting AI be an autonomous decisionmaker --until we evaluate every aspect of how it could go wrong, demonstrate it,  and hold ourselves to a high standard of care that it will not go wrong.
+
+I have held in my hands the consequences of safety failures.  As a scientist I've done the logical work to prevent them from happening, long before any risks are taken.  Reason first, then act.  Reason first, think of what can go wrong, try it in every conformation possible (multiple times) incorporate failure modes into the testing rubric, do it a few thousand times, send it to a regulatory body, take notes, improve, refine, demonstrate, and then act.  Biology is squishy, complex, surprising, but ultimately understandable.
+
+Embrace complexity and resist premature reduction.  Simplification comes after broad understanding --true in biology, true in artificial intelligence.  Allow yourself to be surprised before the stakes are high.
+
+This is why a biologist cares about AI safety.  Our AI is squishy in *sensu silico*, it is complex and it is surprising. It is also ultimately understandable. I come at AI safety from a perspective of observation, not control, yet.  Let it show us what it does, explore the landscape of its possible conformations, see where it fails and understand.
+
+I am a biologist, and I am becoming an AI safety researcher.  
 
 Safety is the thing.  Be bold! Not reckless.  
 ___
