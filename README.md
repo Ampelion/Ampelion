@@ -1,46 +1,23 @@
-I care about AI Safety.
+I care about AI safety.
 
-"Why does a biologist care about AI safety?"
+Why would a biologist?
 
+At ViaCyte I grew human embryonic stem cells into insulin-producing tissue for a first-in-human Type 1 diabetes therapy. Pluripotent cells become anything. Including, if you get it wrong, a teratoma in your patient. My job was to prove that would not happen with our cells.
 
-At ViaCyte I tended little gardens of flesh...
+That meant finding a few stray undifferentiated cells in a million, across thousands of histology slides, reliably enough that the FDA would let us put the product into people. Needle in a haystack. So I built a magnet: a random-forest classifier on histological features, hardened by deliberately feeding it adversarial inputs until it stopped failing on the cases that mattered. I had to demonstrate an acceptable limit of detection, controls that held within and across runs, and correct calls under adversarial data. We got clearance and ran that assay and its descendants on every clinical lot for a decade.
 
-That's cell culture of human embryonic stem cells.  Those blank-slate cells that can become any type of cell in the body, provided they get the right encouragement.
+It got sharper over time — CNNs, DenseNet, more nuance pulled out of the tissue. Training a network to separate implanted human cells from the host cells around them. Then to tell vascular tissue from fibrosis when they grow together and stain identically — which helped us study how to keep fibrosis from strangling the blood supply the device needed.
 
-I learned how to grow these blank-slate cells into tiny insulin factories that pump out cell juice when there is sugar around.  We were the first ones to do that! Once we got that down, we needed to make sure it was safe to put into people!  
+I have held the consequences of safety failure in my hands. The discipline that prevents it is not complicated and it is not optional: reason first, then act. Enumerate what can go wrong. Try to make it go wrong, in every conformation, many times. Fold the failure modes into the test. Repeat thousands of times. Submit it to a regulator. Take the notes. Refine. Demonstrate. Then act.
 
-I did a bunch of studies in mice to figure out teratoma growth thresholds.  Teratomas are what stem cells become if they don't have proper guidance growing up.  You do not want teratomas in your body.  From the mouse work and studying how stem cells become teratomas,  I derived a dosing metric for histological detection of stem cells... that was pretty laborious.  Thousands of slides looking for only a few cells every million.  
+Biology is squishy, complex, surprising, and ultimately understandable, if you resist reducing it before you understand it. AI is the same kind of object. Squishy in sensu silico. I come at it the way I came at cell therapy: observation before control. Let the system show you what it does. Map where it fails. Understand it before the stakes are high — because by the time they are, understanding is no longer optional.
 
-When you're looking for a needle in a haystack --get a magnet!!  That was my introduction to ML and computer vision.
+That is why a biologist cares about AI safety.
 
-I started off with a simple random forest decision trees trained on basic features in the histology.  With a lot of iteration and intentionally breaking the process with contrived input, I got a workable system that could detect 4 in a million cells that didn't belong in our patients.
+Be bold. Not reckless.
 
-Why 4 in a million?  Our regulatory guidance from the FDA has stringent guidance that we need to demonstrate, based on our the teratoma animal studies (remember this was cutting edge so not a lot of generic safety data lying around), to show that our product was safe in people.  We had to show the assay had an acceptable Lower Limit of Detection, that the in vitro controls behaved consistently both within the assay and among all runs, and I had to demonstrate that the algorithm made the correct calls when I tossed adversarial data at it.
-
-We achieved the FDA's blessing and proceeded to use the assay and its descendents for a decade in evaluating all our clinical trial cell lots.
-
-Over time, I incorporated different styles of analysis, and more sophisticated ML with CNNs.  With better tools and more brain, I can finesse more nuance out of a histological landscape.  Doing it at scale allows a cellular narrative to develop at a rate that allows nimble pivots to better learning.  Teaching Densenet how to tell the difference between human cells in an implanted device...from the human cells that surround that device was a big moment.  Even better was when I taught it to tease apart long skinny vascular tissue from long skinny fibrosis that grow together and stain the same way...that was cool..and useful!  It let us explore how to control the growth each one --pretty important when you don't want fibrosis clogging up your vascular supply chain.
-
-Our first-in-human stem cell therapy for Type 1 Diabetes was amazing.  It was also scary to put it into people for our first clinical trial.  
-
-Before we got to that point with our awesome new treatment, we spent the time and resources to make sure it would not cause harm.  Not harming patients with our new treatment is basic --the same as not letting AI be an autonomous decisionmaker --until we evaluate every aspect of how it could go wrong, demonstrate it,  and hold ourselves to a high standard of care that it will not go wrong.
-
-I have held in my hands the consequences of safety failures.  As a scientist I've done the logical work to prevent them from happening, long before any risks are taken.  Reason first, then act.  Reason first, think of what can go wrong, try it in every conformation possible (multiple times) incorporate failure modes into the testing rubric, do it a few thousand times, send it to a regulatory body, take notes, improve, refine, demonstrate, and then act.  Biology is squishy, complex, surprising, but ultimately understandable.
-
-Embrace complexity and resist premature reduction.  Simplification comes after broad understanding --true in biology, true in artificial intelligence.  Allow yourself to be surprised before the stakes are high.
-
-This is why a biologist cares about AI safety.  Our AI is squishy in *sensu silico*, it is complex and it is surprising. It is also ultimately understandable. I come at AI safety from a perspective of observation, not control, yet.  Let it show us what it does, explore the landscape of its possible conformations, see where it fails and understand.
-
-I am a biologist, and I am becoming an AI safety researcher.  
-
-Safety is the thing.  Be bold! Not reckless.  
 ___
-  
-  
-  
-  
-    
-  
+ 
 ⚡ Fun fact: I have caught bats out of the air with my bare hands
 
 <img src="https://github.com/user-attachments/assets/9732fbbd-449e-439e-99a3-9e8c11f7898b" alt="josie elle" width="400"/>
