@@ -18,9 +18,9 @@ Be bold. Not reckless.
 
 ___
  
-⚡ Fun fact: I have caught bats out of the air with my bare hands
+I have caught bats out of the air with my bare hands
 
-<img src="https://github.com/user-attachments/assets/9732fbbd-449e-439e-99a3-9e8c11f7898b" alt="josie elle" width="400"/>
+<img src="https://github.com/user-attachments/assets/9732fbbd-449e-439e-99a3-9e8c11f7898b" alt=" swapping wheels at the track" width="400"/>
 
 
 <!---
