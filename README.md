@@ -18,10 +18,8 @@ Be bold. Not reckless.
 
 ___
  
-I have caught bats out of the air with my bare hands
-
 <img src="https://github.com/user-attachments/assets/9732fbbd-449e-439e-99a3-9e8c11f7898b" alt=" swapping wheels at the track" width="400"/>
-
+I have caught bats out of the air with my bare hands
 
 <!---
 Ampelion/Ampelion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
